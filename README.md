@@ -2,7 +2,7 @@
  <a href="#sobre">Sobre</a> • 
  <a href="#cursos">Cursos</a> • 
  <a href="#eventos">Eventos</a> • 
-  <a href="#graduacao">Graduações</a> •
+ <a href="#graduacao">Graduações</a> •
  <a href="#tecnologias">Tecnologias</a> • 
 </p>
 
@@ -19,6 +19,8 @@ Certificados de Cursos e Eventos, em ordem de emissão decrescente, que particip
 
 | CERTIFICADO | NOME | MODALIDADE | DURAÇÃO | EMITIDO EM | LINK |
 | ----------- | ---- | ---------- | ------- | ---------- | ---- |
+| <img src="https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-FundamentosdoCSharp_2026" width="150"> | **Fundamentos do C#** | à Distância | 10 horas | 20/02/2026 | 🔗 [Abrir](https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-FundamentosdoCSharp_2026) |
+| <img src="https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-FundamentosdeAPIsparaASP.NETCore_2026.png" width="150"> | **Fundamentos de APIs para ASP.NET Core** | à Distância | 06 horas | 19/02/2026 | 🔗 [Abrir](https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-FundamentosdeAPIsparaASP.NETCore_2026.png) |
 | <img src="https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-EntityFrameworkCore_2025.png" width="150"> | **Introdução ao Entity Framework Core** | à Distância | 03 horas | 04/12/2025 | 🔗 [Abrir](https://github.com/daiccordeiro/Meus-Certificados/blob/main/img/Desenvolvedor.io-EntityFrameworkCore_2025.png) |
 | <img src="https://raw.githubusercontent.com/daiccordeiro/Meus-Certificados/refs/heads/main/img/Desenvolvedor.io-DesenvolvimentoSPAcomAngular_2025.png" width="150"> | **Desenvolvimento SPA com Angular** | à Distância | 06 horas | 04/09/2025 | 🔗 [Abrir](https://raw.githubusercontent.com/daiccordeiro/Meus-Certificados/refs/heads/main/img/Desenvolvedor.io-DesenvolvimentoSPAcomAngular_2025.png) | 
 | <img src="https://raw.githubusercontent.com/daiccordeiro/Meus-Certificados/refs/heads/main/img/Desenvolvedor.io-FundamentosdoASP.NETMVC_2025.png" width="150"> | **Fundamentos do ASP.NET MVC** | à Distância | 07 horas | 27/07/2025 | 🔗 [Abrir](https://raw.githubusercontent.com/daiccordeiro/Meus-Certificados/refs/heads/main/img/Desenvolvedor.io-FundamentosdoASP.NETMVC_2025.png) | 
